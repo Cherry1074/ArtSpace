@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ArtSpace</string>
+    <string name="title1">A Brief History of Time</string>
+    <string name="author1">Stephen Hawking</string>
+    <string name="year1">(1988)</string>
+    <string name="title2">The Selfish Gene</string>
+    <string name="author2">Richard Dawkins</string>
+    <string name="year2">(1976)</string>
+    <string name="title3">On The Origin of Species</string>
+    <string name="author3">Charles Darwin</string>
+    <string name="year3">(1859)</string>
+    <string name="title4">Cosmos</string>
+    <string name="author4">Carl Sagan</string>
+    <string name="year4">(1980)</string>
+</resources>
